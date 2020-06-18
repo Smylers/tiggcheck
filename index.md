@@ -1,6 +1,10 @@
 ## Hello, Phil
 
-This is a sample site, to see what creating it involved.
+This is a sample site, to see what creating it involved. 
+
+Here's a photo, for no apparent reason:
+
+![Baby elephant](https://images.unsplash.com/photo-1535683377879-4481df1731cc?w=600)
 
 You can use the [editor on GitHub](https://github.com/Smylers/tiggcheck/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
